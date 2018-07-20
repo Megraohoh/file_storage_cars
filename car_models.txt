@@ -1,0 +1,3 @@
+T=BluePoliceBox
+H=Zippy
+P=WingedHorse
